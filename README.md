@@ -1,5 +1,12 @@
-### Hi there 👋
+                                                               Hi there I'm Aygün Mercan😄
 
+👋 Welcome to my repository.
+
+I'm RPA Developer :computer:
+
+I'm Philomath :mag_right: I Love learning new things.
+
+My interests : Coding, Traveling, Learning, Teaching
 <!--
 **aygunmercan/aygunmercan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
