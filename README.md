@@ -1,4 +1,4 @@
-![____2](https://user-images.githubusercontent.com/45964283/234442605-9dc1166a-bded-4cc1-8906-592c79ec8928.gif)
+![881563d6444b370fa4ceea0c3183bb4c (1)](https://user-images.githubusercontent.com/45964283/235511987-22aff630-5837-4736-92fe-2c645ad19f10.gif)
 
 
 <h1 align="center">Hi 👋, I'm Aygün</h1>
